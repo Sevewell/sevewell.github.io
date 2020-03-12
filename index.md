@@ -5,7 +5,7 @@
 サーバサイドの仕事してました
 
 # Tweet
-[Twitter](https://twitter.com/seveni89)  
+[Twitter](https://twitter.com/seveni89)
 
 # Blog
 [はてなブログ](https://sevenwell.hatenablog.com/)
