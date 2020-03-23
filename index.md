@@ -12,6 +12,9 @@
 ## Blog
 [はてなブログ](https://sevenwell.hatenablog.com/)
 
+## App
+- [にじさんじ配信履歴](https://youtubeliveshcedule.z13.web.core.windows.net/)
+
 ## Code
 [GitHub](https://github.com/sevenwell)
 
