@@ -13,7 +13,7 @@
 [はてなブログ](https://sevenwell.hatenablog.com/)
 
 ## App
-- [にじさんじ配信履歴](https://youtubeliveshcedule.z13.web.core.windows.net/)
+- [にじさんじ配信履歴](https://youtubeliveshcedule.z13.web.core.windows.net/)　※Googleアカウント認証が必要です
 
 ## Code
 [GitHub](https://github.com/sevenwell)
