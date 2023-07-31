@@ -1,22 +1,19 @@
 # Home
 
 ## About
-元システムエンジニアです  
-犬を飼っています  
-大学院卒業後に独立系SI企業に5年半勤務  
-サーバサイドの仕事してました
+- 情シス/コーポレートエンジニア
+- 犬が好きで元野良を飼っています
+- 自作PCも好きです
 
 ## Tweet
-[Twitter](https://twitter.com/seveni89)
+- [X](https://twitter.com/seveni89/)
 
 ## Blog
-[はてなブログ](https://sevenwell.hatenablog.com/)
+- [GitHub](blog/)
+- [はてなブログ](https://sevenwell.hatenablog.com/)
 
-## App
-- [にじさんじ配信履歴](https://youtubeliveshcedule.z13.web.core.windows.net/)　※Googleアカウント認証が必要です
+## Apps
+- [GitHub](https://github.com/sevewell/)
 
-## Code
-[GitHub](https://github.com/sevenwell)
-
-## Email
-tmon.seveny@gmail.com
+## Mail
+- tmon.seveny@gmail.com
