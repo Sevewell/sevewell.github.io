@@ -8,7 +8,13 @@ General Availabilityということで試してみました。
 
 [Windows MAM のデータ保護](https://learn.microsoft.com/ja-jp/mem/intune/apps/protect-mam-windows)
 
-# ポイントその１：条件付きアクセス
+# 動かしてみた
+
+ダウンロードをブロックする設定をして、Edgeにてダウンロードを試みると下記のポップアップが現れて無事にブロックされました。
+
+![ダウンロードをブロック](./MAM%20for%20Windows-Block.png)
+
+# ポイント：条件付きアクセス
 
 条件付きアクセスの設定もセットで説明されています。使うつもりはなくても、試すにあたって設定しておいたほうがいいかも。
 
@@ -16,7 +22,7 @@ General Availabilityということで試してみました。
 
 [Windows デバイス上でアプリ保護ポリシーを要求する](https://learn.microsoft.com/ja-jp/entra/identity/conditional-access/how-to-app-protection-policy-windows)
 
-# ポイントその２：Mobile Threat Defense
+# ポイント：Mobile Threat Defense
 
 大枠のドキュメントに以下のような記載があります。
 
@@ -28,7 +34,7 @@ General Availabilityということで試してみました。
 
 ただ今回作った"Windows Security Center"コネクターは上記に載っていませんでした。
 
-# ポイントその３：登録していると機能しない
+# ポイント：登録していると機能しない
 
 これが私にとって最大のポイント。おそらくこれのせいで1週間くらいハマりました。
 
