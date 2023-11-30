@@ -18,9 +18,11 @@ General Availabilityということで試してみました。
 
 条件付きアクセスの設定もセットで説明されています。使うつもりはなくても、試すにあたって設定しておいたほうがいいかも。
 
-参考にしたドキュメントは下記です。デバイスポリシー準拠要求と組み合わせるのはなるほどねと思いました。
+参考にしたドキュメントは下記です。
 
 [Windows デバイス上でアプリ保護ポリシーを要求する](https://learn.microsoft.com/ja-jp/entra/identity/conditional-access/how-to-app-protection-policy-windows)
+
+デバイスポリシー準拠要求と組み合わせるのはなるほどです。準拠しているはずなのになぜか準拠していないと判定してしまう既知の問題を和らげ得ます。
 
 # ポイント：Mobile Threat Defense
 
