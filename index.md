@@ -1,20 +1,21 @@
-# Home
-
-## About
+# About
 - 情シス/コーポレートエンジニア
 - 犬が好きで元野良を飼っています
 - 自作PCも好きです
 
-## Tweet
+# History
+
+# SNS
 - [X](https://twitter.com/seveni89/)
 
-## Blog
-- [GitHub](blog/)
+# Blog
+- [GitHub Pages](blog/)
 - [はてなブログ](https://sevenwell.hatenablog.com/)
 
-## Apps
+# Apps
 - [GitHub](https://github.com/sevewell/)
 - ブックマークをタグで管理できるアプリ
     - いつか公開するつもり
-## Mail
+
+# Mail
 - tmon.seveny@gmail.com
