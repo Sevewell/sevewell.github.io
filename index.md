@@ -4,6 +4,7 @@
 - 自作PCも好きです
 
 # History
+[経歴](history.md)
 
 # SNS
 - [X](https://twitter.com/seveni89/)
@@ -11,11 +12,6 @@
 # Blog
 - [GitHub Pages](blog/)
 - [はてなブログ](https://sevenwell.hatenablog.com/)
-
-# Apps
-- [GitHub](https://github.com/sevewell/)
-- ブックマークをタグで管理できるアプリ
-    - いつか公開するつもり
 
 # Mail
 - tmon.seveny@gmail.com
